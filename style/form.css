@@ -1,0 +1,11 @@
+label{
+  display: block;
+  margin-top: 10px;
+}
+h2{
+  color: aqua;
+  background-color: rgb(244, 244, 33);
+}
+button{
+  margin-top: 10px;
+}
